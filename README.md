@@ -1,19 +1,19 @@
 # JT Turner Workout Tracker
 
-##Description
+## Description
 This application allows the user to create, save, and track their previous workouts. The user can choose between cardio or resistance based training, name the workout, and enter details about the workout such as the duration or distance.
 
-##Screenshots of Completed Application
+## Screenshots of Completed Application
 ![Workout Tracker Aplication](public/assets/images/WorkoutTracker.gif)
 
-##Links to Deployed Application
+## Links to Deployed Application
 Github Pages: https://github.com/javierturner/workouttracker
 Deployed App: https://desolate-shelf-41461.herokuapp.com/
 
-##How to Use
+## How to Use
 There is no installation required for this application. Just go to https://desolate-shelf-41461.herokuapp.com/ and click "New Workout." Then, continue to enter your workout details and click "Add Workout," and you're done!
 
-##License
+## License
 
 MIT License
 
